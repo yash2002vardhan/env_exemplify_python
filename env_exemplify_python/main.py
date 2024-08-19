@@ -21,5 +21,5 @@ def env_exemplify(path: str) -> None:
     with open(path, "w") as file:
         file.writelines(modified_lines)
 
-    return None
+    return None  
 
