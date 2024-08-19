@@ -51,4 +51,10 @@ pip-selfcheck.json
 #environment files
 .env
 
+#pypi setup files
+setup.py
+build/
+dist/
+env_exemplify.egg-info/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,venv
